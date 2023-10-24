@@ -5,6 +5,13 @@ body {
     background-attachment: fixed;
 }
 
+.nav-bar-bg {
+    background-color: rgba(230, 215, 213, 0.2);
+    margin-top: 0px;
+    width: 500px;
+    height: 1500px;
+}
+
 .nav-bar-child {
     display: inline-block;
 }
