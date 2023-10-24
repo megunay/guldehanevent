@@ -1,3 +1,10 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 .nav-bar-child {
     display: inline-block;
 }
@@ -9,4 +16,8 @@ ul {
 li {
     display: inline-block;
     margin-right: 50px;
+}
+
+.logo {
+    border-radius: 50%;
 }
