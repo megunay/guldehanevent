@@ -1,0 +1,12 @@
+.nav-bar-child {
+    display: inline-block;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    margin-right: 50px;
+}
